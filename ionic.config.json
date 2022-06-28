@@ -1,0 +1,8 @@
+{
+  "name": "mbdsp8-covidapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6bc955cd"
+}

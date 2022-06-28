@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "mbdsp8-covidapp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
